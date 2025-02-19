@@ -1,0 +1,42 @@
+#contenedor{
+    width: 70%;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(228, 16, 16);
+    font-size: 20px;
+}
+#contenedor2{
+    width: 70%;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    background-color: blue;
+}
+#contenedor3{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(228, 16, 16);
+}
+body{
+    background-color: rgb(202, 160, 160);
+}
+.titulo{
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+    
+}
+.img{
+    width: 350px;
+    border: 3px solid black;
+}
+h2{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
