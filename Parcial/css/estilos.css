@@ -1,0 +1,86 @@
+#contenedorheader{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+}
+.titulo{
+    color: aliceblue;
+}
+h1 {
+    font-size: 30px;
+    color: #ffffff;
+    margin: 10px 5px -30px 15px;
+    text-align: left;
+}
+nav {
+    text-align: right;
+    padding: 15px 50px 0 10px;
+}
+ 
+nav>a {
+    color: #edeef3;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 7px;
+    font-size: 30px;
+}
+ 
+nav>a:hover {
+    text-decoration: underline;
+}
+ 
+.wave {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+#contenedor1{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+}
+#contenedor2{
+    position: relative;
+    display: inline-block;
+    top: 5px;
+    width: 35%;
+    height: 350px;
+    border: 1px solid black; 
+}
+p{
+    color: rgb(87, 91, 94); 
+}
+#formulario{
+    top: auto;
+    width: 99%;
+    margin: auto;
+    border: 1px solid black;
+    text-align: left;
+    height:100%;
+    border-collapse: collapse;
+    font-size: 18px;
+
+}
+
+#tabla{
+    width: 70%;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    height:100%;
+    border-collapse: collapse;
+    
+    font-size: 20px;
+}
+#pie{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+}
+h3 {
+    font-size: 30px;
+    color: #ffffff;
+    margin: 10px 5px -30px 15px;
+    text-align: center;
+}
